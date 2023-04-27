@@ -14,3 +14,6 @@
 /releases/
 *.mpr.lock
 *.mpr.bak
+/newapp-1653597422016.mpr.bak
+/newapp-1653597422016.mpr.lock
+/nativemobile/builds/
